@@ -1,0 +1,12 @@
+The hardware and software components of this project include the following.
+ARM7 TDMI-S LPC 2148
+Crystal Oscillator
+Reset Circuit
+Switches
+Transistor Driver Circuit
+Water Pump
+Relays
+16X2 LCD Display
+Keil Compiler
+Embedded C Language
+
